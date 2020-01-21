@@ -14,3 +14,6 @@
 # limitations under the License.
 
 echo "Hello, world!"
+echo "The time is $(date)."
+echo "This is alot of fun"
+echo "but not as much fun as surfing at Playa Negra!"
